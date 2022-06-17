@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sergey Sergeev from Kaliningrad, Russia
 I'm geophysicist by training and now work mostly with seismic and well log data.
-Interested in web development and machine learning, sometimes code stuff, in Python mostly.
+Interested in web development and machine learning.
+Sometimes create small utility apps, in Python mostly.
+Plan be a web developer in future
 
 Now learning Django and JavaScript
 <!---
